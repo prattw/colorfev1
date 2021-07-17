@@ -1,0 +1,28 @@
+* {
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 10px 10px 5px black;
+    padding: 5px;
+
+}
+
+box {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(203, 199, 199);
+    padding: 10px;
+}
+
+input {
+    box-shadow: 3px 3px 1px black;
+}
